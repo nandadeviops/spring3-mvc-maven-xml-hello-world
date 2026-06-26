@@ -42,7 +42,7 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Container</h2>
-		<p>Docker-Containers</p>
+		<p>Docker-Container</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
