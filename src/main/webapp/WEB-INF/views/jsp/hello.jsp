@@ -49,7 +49,7 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Orchestra</h2>
-		<p>Kubernetes-Orchestration</p>
+		<p>Kubernetes-Orchestrations</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
